@@ -142,7 +142,7 @@ html{
 * [GitHub](https://github.com/Evey-huang)
 * [博客](https://evey-huang.github.io./)
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+> 如果你喜欢这个效果，Fork [我的项目](https://github.com/Evey-huang/CoolCv)，打造你自己的简历！
 
 `
       }
